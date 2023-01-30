@@ -9,7 +9,7 @@ Type in the password. The actual password you type in will be invisible, and hit
 If you successfully logged in, there will be notices starting with "hello". Otherwise, you will be required to type in the password. 
 
 ![Image](commands.png)
-Try some commands by typing in a new line ```# code block cat /home/linux/ieng6/cs15lwi23/public/hello.txt```. It can be used to print out the content in the given path. In this case, the code could print out the line showed in the screenshot.
+Try some commands by typing in a new line ```# cat /home/linux/ieng6/cs15lwi23/public/hello.txt```. It can be used to print out the content in the given path. In this case, the code could print out the line showed in the screenshot.
 
 ![Image](command1.png)
 I then tried out the command ```# ls -a```. It is used to list contents in the present working directory, including the hidden files. After tying this command, you can see the list of contents in colors below.
